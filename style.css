@@ -53,7 +53,7 @@ body {
 	cursor: pointer;
 }
 
-.button:hover {
+.button:hover, .button:active {
 	background-color: #323330;
 	color: white;
 	transition: 0.5s ease-in-out;
