@@ -64,6 +64,6 @@ body {
 	color: white;
 }
 
-#equal:hover {
+#equal:hover, #equal:active {
 	filter: brightness(.75);
 }
